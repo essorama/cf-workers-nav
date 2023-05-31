@@ -1,8 +1,7 @@
 # CF-Workers-nav
 
-CF-Worker-Dir是一款适用于Cloudflare Worker平台上的云函数程序，可以使用它在一分钟内搭建属于自己的导航页面。CF-Worker-Dir提供丰富的自定义配置，同时它还可以预留了接口帮助你售出自己域名。如果你的域名还没有搭建网站，不如先利用CF-Worker-Dir让你的域名不再浪费。😉
+CF-Workers-nav是一款适用于Cloudflare Worker平台上的云函数程序，可以使用它在一分钟内搭建属于自己的导航页面。CF-Workers-nav提供丰富的自定义配置，同时它还可以预留了接口帮助你售出自己域名。如果你的域名还没有搭建网站，不如先利用CF-Workers-nav让你的域名不再浪费。😉
 
-🎉[演示地址](http://gethe.best/)
 
 <details>
 <summary>📷程序截图</summary>
@@ -24,7 +23,7 @@ CF-Worker-Dir是一款适用于Cloudflare Worker平台上的云函数程序，�
 
 ## 系统配置
 
-CF-Worker-Dir允许用户自定义导航页面，配置内容如下：
+CF-Workers-nav允许用户自定义导航页面，配置内容如下：
 ```
 const config = {
   title: "自定义导航",                 //自定义网站标题
@@ -75,3 +74,5 @@ const config = {
 ## Licence
 
 MIT
+
+from https://github.com/sleepwood/CF-Worker-Dir
