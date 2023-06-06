@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "CF-Worker-Dir",
+  "name": "CF-Worker-Nav",
   "version": "0.1.1",
   "description": "A template for kick starting a Cloudflare Workers project",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write '**/*.{js,css,json,md}'"
   },
-  "author": "vpseeker <shenyuan1996@126.com>",
+  "author": "vpseeker <略@1.com>",
   "license": "MIT",
   "devDependencies": {
     "prettier": "^1.18.2"
